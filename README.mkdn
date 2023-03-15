@@ -1,0 +1,6 @@
+> Mirrored from CodeLinaro OSS Git
+
+## Branches
+
+## SDM660
+- `LA.UM.11.2.1.r1-03100-sdm660.0`  | Android 13 | msm-4.19 | [Tree](https://github.com/herobuxx/kernel_qcom/tree/LA.UM.11.2.1.r1-03100-sdm660.0) | [Commits](https://github.com/herobuxx/kernel_qcom/commits/LA.UM.11.2.1.r1-03100-sdm660.0)
