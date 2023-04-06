@@ -4,4 +4,5 @@
 
 - `LA.UM.11.2.1.r1-03100-sdm660.0`        | SDM660 | Android 13 | msm-4.19 | [Tree](https://github.com/herobuxx/kernel_qcom/tree/LA.UM.11.2.1.r1-03100-sdm660.0) | [Commits](https://github.com/herobuxx/kernel_qcom/commits/LA.UM.11.2.1.r1-03100-sdm660.0)
 - `LA.UM.11.2.1.r1-03300-sdm660.0`        | SDM660 | Android 13 | msm-4.19 | [Tree](https://github.com/herobuxx/kernel_qcom/tree/LA.UM.11.2.1.r1-03300-sdm660.0) | [Commits](https://github.com/herobuxx/kernel_qcom/commits/LA.UM.11.2.1.r1-03300-sdm660.0)
+- `LA.UM.9.12.r1-15200.02-SMxx50.0`  | kona | Android 11 | msm-4.19 | [Tree](https://github.com/herobuxx/kernel_qcom/tree/LA.UM.9.12.r1-15200.02-SMxx50.0) | [Commits](https://github.com/herobuxx/kernel_qcom/commits/LA.UM.9.12.r1-15200.02-SMxx50.0)
 - `LA.UM.9.15.r1-07300-KAMORTA.QSSI13.0`  | bengal | Android 11 | msm-4.19 | [Tree](https://github.com/herobuxx/kernel_qcom/tree/LA.UM.9.15.r1-07300-KAMORTA.QSSI13.0) | [Commits](https://github.com/herobuxx/kernel_qcom/commits/LA.UM.9.15.r1-07300-KAMORTA.QSSI13.0)
